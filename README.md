@@ -1,13 +1,13 @@
 Scala macro debugger demo
 ========
 
-Features:
+###Features:###
 
 1. ...
 
 A short screencast, which shows the features in action: [http://www.screenr.com/w877](http://www.screenr.com/w877).
 
-How to install:
+###How to install:###
 
 1. Install [the latest version](http://www.jetbrains.com/idea/download/index.html) of Intellij IDEA (both Ultimate and Community are suitable).
 
