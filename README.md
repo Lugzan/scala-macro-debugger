@@ -7,7 +7,7 @@ Scala macro debugger demo
 
 A short screencast, which shows the features in action: [http://www.screenr.com/w877](http://www.screenr.com/w877).
 
-###How to install:###
+###How to use:###
 
 1. Install [the latest version](http://www.jetbrains.com/idea/download/index.html) of Intellij IDEA (both Ultimate and Community editions work with the macro debugger).
 
