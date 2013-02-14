@@ -11,7 +11,7 @@ A short screencast, which shows the features in action: [http://www.screenr.com/
 
 1. Install [the latest version](http://www.jetbrains.com/idea/download/index.html) of Intellij IDEA (both Ultimate and Community editions work with the macro debugger).
 
-2. Add `scala.macro.debug.enabled=true` to `idea.properties` in the IDEA's install dir.
+2. Add `scala.macro.debug.enabled=true` to `bin/idea.properties` in the IDEA's install dir.
 
 3. Install the Scala plugin using `Settings -> Plugins`. Macro debugger is bundled with the official Scala plugin for IDEA, so you don't need to download additional software.
 
