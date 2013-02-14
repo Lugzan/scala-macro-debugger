@@ -16,7 +16,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="MacroHolder" />
+    <orderEntry type="module" module-name="Macros" />
     <orderEntry type="library" name="scala-all" level="project" />
   </component>
 </module>

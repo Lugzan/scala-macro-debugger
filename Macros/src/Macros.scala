@@ -1,10 +1,7 @@
 import reflect.macros.Context
 import scala.language.experimental.macros
 
-/**
- * Created with IntelliJ IDEA.
- */
-object MacroHolder {
+object Macros {
   def debugImpl(c: Context)() = {
     c.universe.reify {
       println("Hello")
