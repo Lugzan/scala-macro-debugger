@@ -13,7 +13,7 @@ A short screencast, which shows the features in action: [http://www.screenr.com/
 
 2. Add `scala.macro.debug.enabled=true` to `idea.properties` in the IDEA's install dir.
 
-3. Install the Scala plugin using `Settings -> Plugins`.
+3. Install the Scala plugin using `Settings -> Plugins`. Macro debugger is bundled with the official Scala plugin for IDEA, so you don't need to download additional software.
 
 4. Clone this repository and open it in IDEA.
 
