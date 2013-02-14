@@ -19,6 +19,6 @@ A short screencast, which shows the features in action: [http://www.screenr.com/
 
 5. If you've not yet configured JDK 1.6 in IDEA, [do that](http://www.google.com/).
 
-6. Everything's set up - now you can try out the debugger!
+6. Everything's set up - now you can compile the demo project, set some breakpoints and try out the debugger!
 
 
