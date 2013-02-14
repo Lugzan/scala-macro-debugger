@@ -17,7 +17,7 @@ A short screencast, which shows the features in action: [http://www.screenr.com/
 
 4. Clone this repository and open it in IDEA.
 
-5. If you don't have IDEA's JDK configured (e.g. if you didn't use it before), open the `Project Structure` menu and create JDK for Java 1.6. // Need a link about how to do that!
+5. If you don't have IDEA's JDK configured, [do that](http://www.google.com/). *Also mention that we need JDK 1.6*
 
 6. Everything's set up - now you can try out the debugger!
 
