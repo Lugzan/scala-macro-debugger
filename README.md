@@ -3,7 +3,9 @@ Scala macro debugger demo
 
 ###Features:###
 
-1. ...
+1. Showing of synthetic source code of files containing macro calls
+2. Debugging of the synthetic code (all the features - stepping, loval variables, etc.)
+3. Gutter markers for macro calls
 
 A short screencast, which shows the features in action: [http://www.screenr.com/w877](http://www.screenr.com/w877).
 
